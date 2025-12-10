@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Find Work - ProjX</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="logo">ProjX</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="whyus.html">Why Us</a>
+    <a href="hire.html">Hire Freelancers</a>
+    <a href="findwork.html">Find Work</a>
+    <a href="pricing.html">Pricing</a>
+  </nav>
+</header>
+<div class="hero">
+  <h1>Find Paid Finance Projects</h1>
+  <p>Apply to real SME projects, build your portfolio, and get paid securely.</p>
+  <a href="#" class="cta-btn">START NOW!</a>
+</div>
+</body>
+</html>
