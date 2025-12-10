@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pricing - ProjX</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="logo">ProjX</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="whyus.html">Why Us</a>
+    <a href="hire.html">Hire Freelancers</a>
+    <a href="findwork.html">Find Work</a>
+    <a href="pricing.html">Pricing</a>
+  </nav>
+</header>
+<div class="container">
+  <h1>Pricing Models</h1>
+  <div class="feature-box">
+    <h3>SME Pay-Per-Project</h3>
+    <p>Commission: 20% per project, Escrow fee: ₹49, Free basic invoices.</p>
+  </div>
+  <div class="feature-box">
+    <h3>SME Subscription</h3>
+    <p>Starter: ₹499/month, Growth: ₹999/month, Finance Pro: ₹1,999/month</p>
+  </div>
+  <div class="feature-box">
+    <h3>Student Plans</h3>
+    <p>Free Tier: basic portfolio & standard payouts; ProjX Plus: ₹199/month; ProjX Pro: ₹499/month.</p>
+  </div>
+</div>
+</body>
+</html>
